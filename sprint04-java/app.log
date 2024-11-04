@@ -1,0 +1,3 @@
+2024-11-04 09:07:12 [grizzly-http-server-0] INFO  org.mecanica.entidades.Usuario - Cadastrado: Usuario(nome=Lucas Ferreira, cpf=11223344556, sexo=M, dataNascimento=1994-10-11, login=null, email=lucas.ferreira@example.com, senha=Senha@123) 
+2024-11-04 12:27:36 [grizzly-http-server-1] INFO  org.mecanica.entidades.Usuario - Cadastrado: Usuario(nome=null, cpf=98765432100, sexo=M, dataNascimento=1995-08-15, login=null, email=novousuario@example.com, senha=senhaSegura!) 
+2024-11-04 13:15:38 [grizzly-http-server-1] INFO  org.mecanica.entidades.Usuario - Cadastrado: Usuario(nome=Novo Usuario, cpf=98765432100, sexo=M, dataNascimento=1995-08-15, email=novousuario@example.com, senha=senhaSegura!) 
